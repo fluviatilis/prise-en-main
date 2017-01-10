@@ -2,7 +2,8 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>initiatiopn GitHub</title>
+		<title>initiation GitHub</title>
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	</head>
 	<body>
 		<header>
@@ -10,7 +11,7 @@
 		</header>
 		<main>
 			<section>
-				<h2>la section d'assaut pour faire un changement dans le DOM</h2>
+				<h2>On change un truc</h2>
 			</section>
 		</main>
 
