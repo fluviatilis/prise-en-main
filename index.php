@@ -8,5 +8,14 @@
 		<header>
 			<h1>le site avec github</h1>
 		</header>
+		<main>
+			<section>
+				<h2>la section d'assaut pour faire un changement dans le DOM</h2>
+			</section>
+		</main>
+
+		<footer>
+			<p>aucun droit réservé</p>
+		</footer>
 	</body>
 </html>
